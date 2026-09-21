@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "THEMULTIVERS.aternos.me",
+    "port": 37207,
+    "version": "1.26.51.1",
     "try-creative": false
   },
   "position": {
